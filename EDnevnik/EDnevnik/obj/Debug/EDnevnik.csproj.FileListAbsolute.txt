@@ -1,0 +1,10 @@
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Osoba.resources
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.Properties.Resources.resources
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.GenerateResource.cache
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\WIN10_20H2_64UE\source\repos\EDnevnik\EDnevnik\obj\Debug\EDnevnik.pdb
